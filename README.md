@@ -1,12 +1,10 @@
-# V2Ray Heroku
 
-**若需部署 V2Ray VLESS，请转到 [vless](https://github.com/wxl409027867/4090278672/tree/vless) 分支。**
 
 ## 概述
 
-本专案用于在 Heroku 上部署 V2Ray WebSocket，在合理使用的程度下，本镜像不会因为大量占用资源而导致封号。
+本专案用于在 上部署 在合理使用的程度下，本镜像不会因为大量占用资源。
 
-部署完成后，每次启动应用时，运行的 V2Ray 将始终为最新版本
+部署完成后，每次启动应用时，运行的将始终为最新版本
 
 ## 部署
 
@@ -18,7 +16,7 @@
 
 > [![Deploy](https://www.herokucdn.com/deploy/button.png)](https://dashboard.heroku.com/new?template=https://github.com/wxl409027867/4090278672)
 
- 4. 回到专案首页，点击上面的链接以部署 V2Ray
+ 4. 回到专案首页，点击上面的链接以部署 
 
 ### 变量
 
